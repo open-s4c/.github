@@ -6,15 +6,19 @@ S4C is home to a set of concurrency projects targeting system software.
 
 Currently we host 3 projects:
 
-- **libvsync**:
+- **[libvsync]**:
 libvsync is a C header-only library that contains most essential building blocks for concurrent applications,
 including atomic operations, synchronization primitives and concurrent data structures.
 The library has been verified and optimized for Weak Memory Models (WMMs) such as in Arm CPUs.
 
-- **vsyncer**: is a toolkit to verify and optimize concurrent C/C++ programs on WMMs,
+- **[vsyncer]**: is a toolkit to verify and optimize concurrent C/C++ programs on WMMs,
 which employs state-of-the-art model checkers [Dartagnan][] and [GenMC][].
 
-- **benchkit**: A framework to support the development of reproducible benchmarks.
+- **[benchkit]**: A framework to support the development of reproducible benchmarks.
+
+[libvsync]: https://github.com/open-s4c/libvsync
+[vsyncer]: https://github.com/open-s4c/vsyncer
+[benchkit]: https://github.com/open-s4c/benchkit
 
 ## Publications
 
