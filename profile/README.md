@@ -24,7 +24,7 @@ which employs state-of-the-art model checkers [Dartagnan][] and [GenMC][].
 
 - [VSync: push-button verification and optimization for synchronization primitives on weak memory models](https://dl.acm.org/doi/10.1145/3445814.3446748) --- ASPLOS'21, Oberhauser et al.
 - [Verifying and Optimizing the HMCS Lock for Arm Servers](https://link.springer.com/chapter/10.1007/978-3-030-91014-3_17) --- NETYS'21, Oberhauser et al.
-- [Verifying and Optimizing Compact NUMA-Aware Locks on Weak Memory Models](https://arxiv.org/abs/2111.1524) --- Technical report, 2022, Paolillo et al.
+- [Verifying and Optimizing Compact NUMA-Aware Locks on Weak Memory Models](https://arxiv.org/abs/2111.15240) --- Technical report, 2022, Paolillo et al.
 - [CLoF: A Compositional Lock Framework for Multi-level NUMA Systems](https://dl.acm.org/doi/10.1145/3477132.3483557) --- SOSP'22, Chehab et al.
 - [BBQ: A Block-based Bounded Queue for Exchanging Data and Profiling](https://www.usenix.org/conference/atc22/presentation/wang-jiawei) --- ATC'22, Wang et al.
 - [BWoS: Formally Verified Block-based Work Stealing for Parallel Processing](https://www.usenix.org/conference/osdi23/presentation/wang-jiawei) --- OSDI'23, Wang et al.
