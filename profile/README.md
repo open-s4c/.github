@@ -35,9 +35,6 @@ which employs state-of-the-art model checkers [Dartagnan][] and [GenMC][].
 
 For questions write us an email: `vsync AT huawei DOT com`
 
-This project is under the support of [OpenHarmony Concurrency & Coordination TSG (Technical Support Group), 并发与协同TSG][tsg].
-
-[tsg]: https://www.openharmony.cn/techCommittee/aboutTSG
 [publication]: https://dl.acm.org/doi/abs/10.1145/3445814.3446748
 [Dartagnan]: https://github.com/hernanponcedeleon/Dat3M
 [GenMC]: https://github.com/MPI-SWS/genmc
