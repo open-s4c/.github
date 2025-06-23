@@ -33,7 +33,7 @@ which employs state-of-the-art model checkers [Dartagnan][] and [GenMC][].
 
 ## Contact
 
-For questions write us an email: `vsync AT huawei DOT com`
+For questions and contact use the [discussions section](https://github.com/orgs/open-s4c/discussions).
 
 [publication]: https://dl.acm.org/doi/abs/10.1145/3445814.3446748
 [Dartagnan]: https://github.com/hernanponcedeleon/Dat3M
